@@ -13,3 +13,7 @@ console.log(first, second);
 [first, second] = [second, first];
 
 console.log(first, second);
+
+// const number = -5;
+// number = Math.abs();
+// console.log(number);
