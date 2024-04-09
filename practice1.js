@@ -11,3 +11,5 @@ else if(kamal > jamal && kamal > himu){
 else{
     console.log('Himu will win the lottery');
 }
+
+
